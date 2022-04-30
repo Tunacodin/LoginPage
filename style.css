@@ -1,0 +1,83 @@
+body {
+    background-color:white;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+
+.pageHeader{
+    font-family:Calibri;
+    font: size 70px;
+    text-align:center;
+}
+.overview2{
+    border:3px solid rgb(202, 195, 195)
+
+}
+
+.avatar{
+
+    border: 0px solid black; /*çerçeve şeklini veriyor */
+    border-radius: 50% ; /* çerçeveyi daireselleştiriyor */
+    width:40%;
+
+   
+}
+
+.imgcontainer{
+
+    text-align: center;
+    margin: 24px 0 12px 0;
+
+}
+
+.container{
+
+    padding: 16px;
+
+}
+
+.username{
+
+    width: 100%;
+    height: 30px;
+}
+
+.password{
+    
+  padding-top: 50px;
+
+}
+
+.password1{
+    margin: -30px 0 0 0;
+    width: 100%;
+    height: 30px;
+}
+
+.btn{
+    margin-top:20px;
+width: 100%;
+height: 50px;
+background-color:#04AA6D;
+
+
+
+}
+
+.btn :hover{
+
+    margin:0 0 0 0;
+    
+    width: 100%;
+height: 50px;
+     
+}
+
+.textLogin{
+  
+    color: white;
+    
+
+}
+
+
